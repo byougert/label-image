@@ -1,0 +1,15 @@
+basin
+clamp
+lamp 
+lampshade
+bottle
+rubbertube 
+glasstube
+rubberstop
+test_tube
+papertape 
+fire 
+stick 
+light 
+cotton 
+bubble
